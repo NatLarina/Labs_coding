@@ -142,6 +142,5 @@ int main() {
     // Вывод содержания списка после удаления
     std::cout << "List contents after removal:" << std::endl;
     myList.print();
-
     return 0;
 }
